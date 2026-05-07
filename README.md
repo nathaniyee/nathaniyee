@@ -6,7 +6,7 @@
 - CS @ UT Austin
 - SWE Intern @ Apple
 - Software & Testing @ Longhorn Racing
-- Super interested in full-stack software engineering, data systems, and automotive technology
+- Interested in full-stack software engineering, data systems, and automotive technology
 - Support the Houston Rockets, Houston Texans, Texas Longhorns, Chelsea FC, and McLaren Racing!
 
 ## Technical Skills:
