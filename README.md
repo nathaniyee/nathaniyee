@@ -59,5 +59,6 @@
 <div align="center">
 <a href="https://www.linkedin.com/in/nathaniyee" target="_blank"><img src="https://img.shields.io/badge/-Nathan%20Yee-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="mailto:nathanyee99@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-nathanyee99%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://nathanyee.cv" target="_blank"><img src="https://img.shields.io/badge/-nathanyee.cv-00C853?style=flat&logo=googlechrome&logoColor=white"/></a>&nbsp;
 <a href="https://leetcode.com/u/nathanyee/" target="_blank"><img src="https://img.shields.io/badge/-nathanyee-FFA116?style=flat&logo=leetcode&logoColor=white"/></a>
 </div>
