@@ -4,7 +4,7 @@
 
 
 - CS @ UT Austin
-- SWE Intern @ Apple
+- Prev SWE Intern @ Apple, ForeFlight
 - Software & Testing @ Longhorn Racing
 - Interested in full-stack software engineering, data systems, and automotive technology
 - Support the Houston Rockets, Houston Texans, Texas Longhorns, Chelsea FC, and McLaren Racing!
